@@ -25,7 +25,7 @@ The following **optional** features are implemented:
 - [ ] User can open the twitter app offline and see last loaded tweets
 - [ ] On the Twitter timeline, leverage the CoordinatorLayout to apply scrolling behavior that hides / shows the toolbar.
 
-## Video Walkthrough
+## Video Walkthrough 
 
 Here's a walkthrough of implemented user stories:
 
