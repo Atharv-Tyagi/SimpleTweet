@@ -205,8 +205,8 @@ public class Tweet {
             continue;
         }
 
-        Tweet tweet = new Tweet(tweetJson);
-        tweets.add(tweet);
+        Tweet user = new Tweet(tweetJson);
+        tweets.add(user);
     }
 
     return tweets;
