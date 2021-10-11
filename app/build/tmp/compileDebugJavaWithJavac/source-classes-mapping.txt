@@ -1,0 +1,17 @@
+com/njit/flixster/DetailActivity.java
+ com.njit.flixster.DetailActivity
+ com.njit.flixster.DetailActivity$1
+ com.njit.flixster.DetailActivity$2
+com/njit/flixster/models/MyAppGlideModule.java
+ com.njit.flixster.models.MyAppGlideModule
+com/njit/flixster/MainActivity.java
+ com.njit.flixster.MainActivity
+ com.njit.flixster.MainActivity$1
+com/njit/flixster/adapters/MovieAdapter.java
+ com.njit.flixster.adapters.MovieAdapter
+ com.njit.flixster.adapters.MovieAdapter$ViewHolder
+ com.njit.flixster.adapters.MovieAdapter$ViewHolder$1
+com/njit/flixster/BuildConfig.java
+ com.njit.flixster.BuildConfig
+com/njit/flixster/models/Movie.java
+ com.njit.flixster.models.Movie
